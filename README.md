@@ -6,7 +6,10 @@ Please try to find out why your code is not working your self before trying to c
 Stuff you should have installed and other usefull links | To run the code use the command "node ." in the command line.
 
 Node.js is used to let javascript run on it's own | https://nodejs.org/en/
+
 Visual Studio code is used to edit our code | https://code.visualstudio.com/download
+
 Discord Developer Portal | https://discord.com/developers/applications
+
 If you want a step by step tutorial here is a video a made https://www.youtube.com/watch?v=9TCCDHT1cTY
 
