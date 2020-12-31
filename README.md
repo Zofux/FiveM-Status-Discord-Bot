@@ -1,5 +1,8 @@
 # FiveM-Status-Discord-Bot by Zofux
  
+
+# Do not put this in you resources, this is ment to run outside of your server and will not work if you try to run it of your server
+
 FiveM server status bot, this will display how many users are online in your server thru the status of a discord bot.
 Please try to find out why your code is not working your self before trying to contact me because this a really simply project and should not be hard to understand.
 
